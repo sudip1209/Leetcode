@@ -7,7 +7,7 @@ using namespace std;
 //     vector<int> &arr, int n) {
 //     // Declare a set to store unique elements
     
-//     set<int> st;
+//     set<int> st; 
 
 //     // Insert elements from the array into the set
 //     for(int i = 0; i < n; i++) {
